@@ -8,15 +8,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/Price_Comparison_Website?style=plastic)
 
 
-#### Table of Contents  
-[Features](#Features)  
-[Youtube](#Youtube)\
-[Installing](#Installing)
-
-
-![Demonstartion Video](https://j.gifs.com/D1vYRx.gif)
-
-
 
 
 ## Features 
@@ -30,18 +21,6 @@
 
 
 
-
-## Youtube
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=UgNw5C-Xqlo
-" target="_blank"><img src="http://img.youtube.com/vi/UgNw5C-Xqlo/0.jpg" 
-alt="RoadFighter " width="240" height="180" border="10" /></a>
-
-![YouTube Video Views](https://img.shields.io/youtube/views/UgNw5C-Xqlo?style=plastic)
-![YouTube Video Votes](https://img.shields.io/youtube/likes/UgNw5C-Xqlo?style=social&withDislikes)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/UgNw5C-Xqlo?style=social)
-
-
 ### Installing
 
 ```
@@ -49,4 +28,5 @@ extract in ..xampp/htdocs and run on localhost
 ```
 
 ![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
+
 
